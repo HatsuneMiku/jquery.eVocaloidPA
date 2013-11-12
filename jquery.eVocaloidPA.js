@@ -134,7 +134,7 @@
             var instance = this;
             instance.data.ints = [0xF0, 0x43, 0x79, 0x09, 0x0F, 0x50, this.config.mode];
             $.each(instance.data.pa, function(pa_index, pa) {
-                if (pa == "\n") {
+                if (pa == config.separator.line) {
                     return;
                 }
                 $.each(pa.split(''), function(index, value) {
