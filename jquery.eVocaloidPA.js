@@ -124,7 +124,7 @@
             
             instance.create_ints();
             instance.create_blob();
-            $.data(element, 'eVocaloidData', instance.data);
+            $.data(element, 'eVocaloidPAData', instance.data);
         },
         push_pa: function(val) {
             this.data.pa.push(val);
