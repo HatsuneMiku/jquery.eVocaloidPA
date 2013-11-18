@@ -232,13 +232,13 @@
                 "p' e",  "p\\ e",
                 "w o",   "ts o",  "p\\ o",
                 "k' a",  "S a",   "tS a",  "t' a",   "J a",
-                "C a",   "m' a",  "4' a",  "N' a",   "dZ a",
+                "C a",   "m' a",  "4' a",  "g' a",   "dZ a",
                 "d' a",  "b' a",  "p' a",  "p\\' a",
                 "k' M",  "S M",   "tS M",  "t' M",   "J M",
                 "C M",   "m' M",  "4' M",  "g' M",   "dZ M",
                 "d' M",  "b' M",  "p' M",  "p\\' M",
                 "k' o",  "S o",   "tS o",  "t' o",   "J o",
-                "C o",   "m' o",  "4' o",  "N' o",   "dZ o",
+                "C o",   "m' o",  "4' o",  "g' o",   "dZ o",
                 "d' o",  "b' o",  "p' o"
             ]
         },
